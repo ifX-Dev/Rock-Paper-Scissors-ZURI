@@ -1,5 +1,4 @@
 import random
-from tkinter import Y
 
 while True:
     player_option = input("Enter a choice (R, P, S): ")
